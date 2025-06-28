@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SHUVAM%20CHATTERJEE/Downloads/Creditcard_Fraud_Detection/mlruns/103347315889290160/3f3a24791ac844b794e956e19d17b168/artifacts
+end_time: 1750819826710
+entry_point_name: ''
+experiment_id: '103347315889290160'
+lifecycle_stage: active
+run_id: 3f3a24791ac844b794e956e19d17b168
+run_name: sassy-chimp-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750819826678
+status: 4
+tags: []
+user_id: SHUVAM CHATTERJEE

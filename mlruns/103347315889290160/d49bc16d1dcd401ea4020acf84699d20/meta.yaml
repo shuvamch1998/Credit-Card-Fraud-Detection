@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SHUVAM%20CHATTERJEE/Downloads/Creditcard_Fraud_Detection/mlruns/103347315889290160/d49bc16d1dcd401ea4020acf84699d20/artifacts
+end_time: 1750994417299
+entry_point_name: ''
+experiment_id: '103347315889290160'
+lifecycle_stage: active
+run_id: d49bc16d1dcd401ea4020acf84699d20
+run_name: fraud-detection-v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750994406252
+status: 3
+tags: []
+user_id: SHUVAM CHATTERJEE

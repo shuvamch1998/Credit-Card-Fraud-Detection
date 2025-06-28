@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/SHUVAM%20CHATTERJEE/Downloads/Creditcard_Fraud_Detection/mlruns/103347315889290160/models/m-c77541d488de437a82d0f08a971aed2b/artifacts
+creation_timestamp: 1750994406495
+experiment_id: '103347315889290160'
+last_updated_timestamp: 1750994417256
+model_id: m-c77541d488de437a82d0f08a971aed2b
+model_type: null
+name: fraud_model
+source_run_id: d49bc16d1dcd401ea4020acf84699d20
+status: 2
+status_message: null
