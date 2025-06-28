@@ -9,8 +9,8 @@ st.set_page_config(page_title="Credit Card Fraud Detector", layout="centered")
 st.title("🛡️ Credit Card Fraud Detection App")
 
 
-MODEL_PATH = "output/fraud_best_model.pkl"
-SCALER_PATH = "output/fraud_scaler.pkl"
+MODEL_PATH = "app/output/fraud_best_model.pkl"
+SCALER_PATH = "app/output/fraud_scaler.pkl"
 
 model = joblib.load(MODEL_PATH)
 scaler = joblib.load(SCALER_PATH)
