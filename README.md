@@ -38,11 +38,11 @@ PCA preserves variance for modeling, but original feature meanings are not inter
 🧠 Model Summary
 Metric	Value
 Model	XGBoost
-Test Set F1	0.728 (Fraud class)
+Test Set F1	0.4416 (Fraud class)
 Test Set Recall	0.8878 (Fraud class)
 ROC AUC	0.9788
-Business Cost	💰 $16,240 (minimized on test set)
-Threshold Used	0.03
+Business Cost	💰 $13,090 (minimized on test set)
+Threshold Used	0.14
 
 ⚠️ Business costs were defined as:
 
